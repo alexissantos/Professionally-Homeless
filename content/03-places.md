@@ -1,4 +1,4 @@
-# Chatper 3: Places
+# Chapter 3: Places
 
 Before you start travelling the world, you’ll probably want to get a rough idea of some places to go. Deciding where to travel to when it’s not for a holiday is actually quite hard - because you’re not just going there to relax - you’re going there to live and work, too… and what do you even base a decision like that on? Also, once you get there, how long do you stay? These are things that you figure out as you go, and they’re completely different for everyone. But I’ll give you an idea of what works for me and you can decide what parts you like, and what parts you’d want to do differently.
 
