@@ -1,17 +1,12 @@
 # Chapter 1: Introduction
 
-As I skydive into the Barcelona football stadium on one sunny day in mid July I’m struck by just how much has changed in the last year. The wind beats a chorus of gravity induced invisible face-warping power onto my face as I mull over where I was just 12 months ago… sitting at my desk at home. I touch down gently, kissing the freshly mown grass of the international football pitch with the soles of my feet having travelled a few thousand vertical feet to arrive in my office for the day. It seems quite nice, all things considered. Then I remember, I don’t have an office - I have an army of outsourced workers in third world countries doing everything for me. I laugh, somewhat maniacally, and sip champagne from a glass handed to me by a very attractive lady, who now proceeds to massage both my shoulders as well as my ego. I’m a kickboxing world champion and tango dancing superstar. I’m amazing in bed, too. Why isn’t everyone as awesome as me? I should help to correct this terrible situation.
-
-Then I wake up. 
-
-Lifting the sheet and glancing down with tentative apprehension, I’m relieved to find that I am not - after all - Tim Ferris. And this, is not the Four Hour Work Week.
-
 There is no master plan. There is no secret get-rich-quick outsourcing scheme that can change your life and turn you into a global New York Times best-selling sex icon. Books like The Four Hour Work Week sell a dream, and they sell it as “anyone can do this”. Everyone wants to believe that. That’s why sales are so prolific. But unfortunately it isn’t quite that simple. If everyone could come up with a spontaneous business ideas that they could outsource to a third world country and work a few hours a week to join the “new rich” … there would probably be a lot more people doing it.
 
-I’m going to be honest with you. Not everyone can do this. In fact the majority of people have no chance of ever doing it. Very few people are ever going to quit their safe jobs, start a business, outsource it, and somehow make lots of money while doing very little. It’s just not realistic. 
+To be honest with you. Not everyone can do this. In fact the majority of people have no chance of ever doing it. Very few people are ever going to quit their safe jobs, start a business, outsource it, and somehow make lots of money while doing very little. It’s just not realistic.
+
 But, there are a few people who are in a unique position where they are able to continue doing their existing work whilst travelling the world. Those people are (for the most part) programmers, graphic designers, and writers. There are others, certainly, but these three groups of people are the best placed by far, at present. If your work is based entirely on a computer and you work for yourself - this book is for you.
 
-This isn’t a business book - I’m not going to tell you how to work less or make more money. I’m assuming that you run your own company or you’re a freelancer who already does all that. If you’re not - consider that a prerequisite to this book. I’m assuming that you’re a designer/writer/programmer working for yourself and that you take home a minimum of £1,000 a month. Those are the only real requirements. If you can do that, you can do this.
+This isn’t a business book - there aren't any instructions about how to work less or make more money. The assumption is that you run your own company or you’re a freelancer who already does all that. If you’re not - consider that a prerequisite to this book. This book assumes that you’re a computer-based person working for yourself, or a company that doesn't require you to be in an office, and that you take home a minimum of £1,000 a month. Those are the only real requirements. If you can do that, you can do this.
 
 ## How it all Started
 
