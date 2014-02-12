@@ -30,4 +30,58 @@ This is a silly little thing, really, but I like it. I always have a countdown r
 
 Tripit
 
-Listning to music while travelling - fuck people who say not to, do it.
+Listening to music while travelling - fuck people who say not to, do it.
+
+## Travel Hacks
+
+After a certain number of years of travelling, you figure out an incredibly high number of tiny optimisations to make your life easier while travelling. Alone, each one is relatively inconsequential, but combined, they are the proverbial keys to the kingdom of happy travels. This is a guide to the things that I've picked up in the last 20 or so years, and several hundred trips of varying length.
+
+### Flying
+
+The flying experience is one that only seems exciting up until the point that you actually do it. The second you arrive at the airport, the fairy tale evaporates and you resolve yourself to the next 24 hours of being herded around like livestock and/or treated like a criminal at every possible opportunity.
+
+### Plane Food
+
+There's are two simple tricks to airline food which every seasoned traveller knows. First - when given the option, you always choose the cuisine native to the home country of the airline which you're flying. Second, when the option involves [anything in the entire fucking world] or omelette, you never - ever - ever take the omelette.
+
+### Selecting a Row
+
+Where you sit in relation to the length of the plane can frequently make just as big of a difference to your happiness as where you sit in relation to the width of the plane.
+
+Business class at the front. Why? Because they're the first to get on, and the first to get off. The frequent traveller desires speed, to shorten the generally hellish process of air travel by the largest margin possible. The best seat (in any class) is always as far toward the front of the plane as possible, so you're the first one to get off at the other end. This may seem pedantic, but being at the back triggers a domino-effect of delays which quickly add up. Last off the plane means last into the terminal, which means last into the immigration queue, which means last to the baggage carousel, which means last through the security checkpoint on the way out of the airport. If you're the first off the plane (with no checked baggage) it's occasionally possible to be out of the airport in less than 10 minutes.
+
+There's one exception to this rule: When buses are involved. When buses from the aiport terminal are involved, the entire process is dramatically reversed. The last one off the plane is the last one on the bus, and the last one onto the bus is the first one off the bus and into the terminal. You get extra OCD points if you manage to plan your seat selection with a degree of accuracy which takes into account the terminal-to-aircraft connection of your particular airline and destination.
+
+### Selecting a Seat
+
+Amateur travellers take the window seat because they want to see clouds and shit. Semi-experienced travellers take the isle seat because they think it's cooler and has more legroom. Experienced travellers take the window seat because they know the only thing more annoying than the food cart crashing into your knees every 30 minutes is the idiot beside you constantly getting up to vanquish the stirrings in his uncontrollable bladder. Experienced travellers pee once before boarding and use the window as a headrest for sleeping.
+
+Nobody ever wants the middle seat.
+
+Peace and quiet is the aim of the game. Super-experienced travellers pick out their top 3 seats in advance with SeatGuru[todo: link] and request (or select) them during check-in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
