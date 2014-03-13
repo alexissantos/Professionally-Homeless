@@ -10,7 +10,7 @@ correction, please [open an issue](https://github.com/JohnONolan/Professionally-
 
 ## Licenses
 
-*Copyright &copy; 2013 John O'Nolan*
+Copyright (c) 2011-2014 John O'Nolan
 
 The **content** of this book (ie: chapters and page content) is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/). You may use it however you wish, but you must always include the appropriate attribution.
 
