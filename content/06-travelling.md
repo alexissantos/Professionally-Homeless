@@ -40,6 +40,12 @@ After a certain number of years of travelling, you figure out an incredibly high
 
 The flying experience is one that only seems exciting up until the point that you actually do it. The second you arrive at the airport, the fairy tale evaporates and you resolve yourself to the next 24 hours of being herded around like livestock and/or treated like a criminal at every possible opportunity.
 
+### Security
+
+Much like the joke in the movie [Up in the Air (2009)](http://www.imdb.com/title/tt1193138/), the key to a fast trip through security is to understand that racial profiling (both in preferential as well as discriminatory ways) is a real thing. It's not right or fair, but it is prevalent, especially in airports. 
+
+Also, whenever you see some of those plastic baggies for liquids lying around, always grab a few spares. In some airports they're free but in many you have to pay for them, so it's always handy to have a couple tucked away in your washbag (you know, where you keep your liquids).
+
 ### Plane Food
 
 There's are two simple tricks to airline food which every seasoned traveller knows. First - when given the option, you always choose the cuisine native to the home country of the airline which you're flying. Second, when the option involves [anything in the entire fucking world] or omelette, you never - ever - ever take the omelette.
