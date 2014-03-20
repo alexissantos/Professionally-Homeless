@@ -64,7 +64,7 @@ Amateur travellers take the window seat because they want to see clouds and shit
 
 Nobody ever wants the middle seat.
 
-Peace and quiet is the aim of the game. Super-experienced travellers pick out their top 3 seats in advance with SeatGuru[todo: link] and request (or select) them during check-in.
+Peace and quiet is the aim of the game. Super-experienced travellers pick out their top 3 seats in advance with [SeatGuru](http://www.seatguru.com/) and request (or select) them during check-in.
 
 
 
