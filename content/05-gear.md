@@ -73,7 +73,7 @@ I carry roughly 5 T-shirts, 2 vests and 1 shirt with me at any point in time. Yo
 
 #### Fleece / Jumper
 
-It’s a good idea to have one warm layer of clothing no matter where you’re going. It gets cold at night in many places, planes are almost always freezing, and some forms of transport (particularly in Asia) are extreme with their love of air conditioning. I opt for a SCOTTEVEST Fleece 5.0 in this department, which is a unique and clever item of clothing which I can’t recommend highly enough. This is one area where my travel geekery knows no bounds. From the outside, the Fleece 5.0 looks like a normal fleece. On the inside, you’ll find 24 different pockets which can hold practically everything you own. This thing isn’t just great for keeping me warm at different levels depending on the temperature (the front unzips and the sleeves zip-off), but it gets me through airport security with unprecedented ease. I empty my pockets of absolutely everything, and put them in the fleece instead. It has special compartments for passport/boardingpass, tablet, smart phone, water bottle, keys, the lot. So when I rock up to an x-ray machine I simply remove the fleece, place it in a tray, and walk straight through the metal detector without any messing around (Pro tip: carbon fibre belt buckle). I wear the fleece when travelling on planes, so it doesn’t take up any space at all in my bag. 
+It’s a good idea to have one warm layer of clothing no matter where you’re going. It gets cold at night in many places, planes are almost always freezing, and some forms of transport (particularly in Asia) are extreme with their love of air conditioning. I opt for a SCOTTEVEST Fleece 5.0 in this department, which is a unique and clever item of clothing which I can’t recommend highly enough. This is one area where my travel geekery knows no bounds. From the outside, the Fleece 5.0 looks like a normal fleece. On the inside, you’ll find 24 different pockets which can hold practically everything you own. This thing isn’t just great for keeping me warm at different levels depending on the temperature (the front unzips and the sleeves zip-off), but it gets me through airport security with unprecedented ease. I empty my pockets of absolutely everything, and put them in the fleece instead. It has special compartments for passport/boarding pass, tablet, smart phone, water bottle, keys, the lot. So when I rock up to an x-ray machine I simply remove the fleece, place it in a tray, and walk straight through the metal detector without any messing around (Pro tip: carbon fibre belt buckle). I wear the fleece when travelling on planes, so it doesn’t take up any space at all in my bag. 
 
 Because it has so many pockets + a “weight management system”, if I have to travel on an airline with strict hand-luggage weight limits then I can quickly and easily offload the heaviest items from my bag into the fleece - increasing the weight of my body (which they can’t do anything about) whilst decreasing the weight of my bag. I can’t recommend this thing highly enough.
 
@@ -123,7 +123,7 @@ Also, make sure you stick some good plasters (the really sticky kind) in your fi
 
 ### Wash Bag
 
-Get a good washbag that can hold all of your toiletries. Remember that any fluids or creams which you have may not exceed 100ml in volume, and all of the must fit together into a standard-sized airport zip-lock bag (Pro tip: whenever you’re at an airport and you see these bags being given away for free, grab 5. Many airports make you pay for them so it’s good to save some for later). I also picked up my own set of travel bottles so that I can carry a small quantity of cologne, shampoo, and shower gel in lightweight plastic bottles. It’s very hard to find “travel sized” stuff, so I find it’s better to have these re-usable bottles and just top them up whenever I can. I also have some very specific recommendations in this department which I’ll go into a little more detail with:
+Get a good wash-bag that can hold all of your toiletries. Remember that any fluids or creams which you have may not exceed 100ml in volume, and all of the must fit together into a standard-sized airport zip-lock bag (Pro tip: whenever you’re at an airport and you see these bags being given away for free, grab 5. Many airports make you pay for them so it’s good to save some for later). I also picked up my own set of travel bottles so that I can carry a small quantity of cologne, shampoo, and shower gel in lightweight plastic bottles. It’s very hard to find “travel sized” stuff, so I find it’s better to have these re-usable bottles and just top them up whenever I can. I also have some very specific recommendations in this department which I’ll go into a little more detail with:
 
 ### Odabahn
 
@@ -161,7 +161,7 @@ Water bottle - you don’t need a special water bottle, just buy a bottle of min
 
 Umbrella - buy one locally if you’re in a wet place, they’re not expensive, no point dragging one round the world with you.
 
-Pacsafe Mesh - it’s a massive wire mesh to go around your bag, weighs a ton, I’ve remotely never had the need for one.
+Pacsafe Mesh - it’s a massive wire mesh to go around your bag, weighs a ton, I’ve never found need for one yet.
 
 Head lamp / flashlight - your phone has a flashlight when you need it, which is rarely.
 
@@ -225,7 +225,7 @@ I keep my external drive and my Macbook apart as much as I can. If I ever lose t
 
 Before I started travelling I debated getting rid of my iPhone and just using a cheap phone + my laptop, but I’m really glad I didn’t do that. My iPhone is probably my single most-used piece of travel equipment. It has all of my booking information, all my music, all my work (emails), and is my gateway to the outside world when I don’t have the time or inclination to get out my laptop - which is often. It’s also great as a compact camera.
 
-I’ve added a super cheap external battery case to my iPhone which serves several purposes. First, it gives me about 3 days of extra battery life on average, or about 1 extra day during heavy use. This is absolutely pricesless when you’re on a long journey and don’t have the opportunity to charge your phone. Second, it does the same thing as the Seethru Satin Case for my Macbook Air - it says “mug me” a little less by making the phone bigger, bulkier, and generally ugly. Third, it protects my phone when I drop it. This is also on my must-have list.
+I’ve added a super cheap external battery case to my iPhone which serves several purposes. First, it gives me about 3 days of extra battery life on average, or about 1 extra day during heavy use. This is absolutely priceless when you’re on a long journey and don’t have the opportunity to charge your phone. Second, it does the same thing as the Seethru Satin Case for my Macbook Air - it says “mug me” a little less by making the phone bigger, bulkier, and generally ugly. Third, it protects my phone when I drop it. This is also on my must-have list.
 
 ### Universal Sim Card
 
@@ -243,11 +243,9 @@ Make sure, however, that the sim card will work in the Mifi whenever you’re bu
 
 First, throw away the white earbuds - again, they scream “mug me”. Second, you’re going to be spending a lot of time on planes, trains, and buses - trust me you’re going to want to block out noise whenever you need to get some work done. I also found that I started listening to a great deal more music when I started travelling just because music is something I can buy that doesn’t add any weight to my bag.
 
-My recommendation here is the Sennheiser *** - which are awesome. They’re completely compatible with iPhone, so you can still take/make calls and control your music - and the sound quality is unbelievably good. If you’ve only used the Apple earbuds up until now, these will surprise you a great deal. 
+My recommendation here is the Sennheiser MM70 (i version for iPhone or S version for everyone else) - which are awesome. They double as a headset, so you can still take/make calls and control your music - and the sound quality is unbelievably good. If you’ve only used the Apple earbuds up until now, these will surprise you a great deal. 
 
-If you’re a total audiophile and feel that you need full headphones rather than earbuds, I’d recommend the Bose *** or Monster Beats Solo HD earphones. Both fold down to a relatively compact size for travel, both have amazing sound, and both are compatible with iPhone. I’d recommend the Bose set if you’re more into light music (acoustic, general rock & pop, classical) and the Monster Beats if you’re more into heavy music (metal, dubstep, house, hiphop). Both of these are very durable and can take a beating, which is a plus if you spend huge amount of time (as I do) plugged in to something.
-
-Either way, I’d recommend getting the Sennheiser *** first and seeing how you get on / how much you end up using them while you’re on the road. They’re infinitely more convenient for travel, and the sound is really good.
+If you’re a total audiophile and feel that you need full headphones rather than earbuds, make sure you get some that fold down to a relatively compact size for travel. Either way, I’d recommend getting the Sennheiser MM70 series first and seeing how you get on / how much you end up using them while you’re on the road. They’re infinitely more convenient for travel, and the sound is really good.
 
 ### Amazon Kindle
 
