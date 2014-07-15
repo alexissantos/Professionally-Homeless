@@ -1,6 +1,6 @@
 #Professionally Homeless
 
-A work in progress open source book about travelling and working, started by [John O'Nolan](http://twitter.com/JohnONolan) and maintained my a [gaggle of homeless keyboard warriors](https://github.com/JohnONolan/Professionally-Homeless/graphs/contributors) across all corners of the globe.
+A work in progress open source book about travelling and working, started by [John O'Nolan](http://twitter.com/JohnONolan) and maintained by a [gaggle of homeless keyboard warriors](https://github.com/JohnONolan/Professionally-Homeless/graphs/contributors) across all corners of the globe.
 
 ## Errata
 
